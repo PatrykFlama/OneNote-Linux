@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-onenote">
+    <comment>Microsoft OneNote section</comment>
+    <glob pattern="*.one"/>
+  </mime-type>
+  <mime-type type="application/x-onenote-package">
+    <comment>Microsoft OneNote notebook package</comment>
+    <glob pattern="*.onepkg"/>
+  </mime-type>
+  <mime-type type="application/x-onenote-toc">
+    <comment>Microsoft OneNote notebook index</comment>
+    <glob pattern="*.onetoc2"/>
+  </mime-type>
+  <mime-type type="application/x-onenote-linux-project">
+    <comment>OneNote Linux editable working copy</comment>
+    <glob pattern="*.onl"/>
+  </mime-type>
+</mime-info>

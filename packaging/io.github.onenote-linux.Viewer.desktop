@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=OneNote Linux
+Comment=View and edit imported OneNote notebooks
+Exec=onenote-linux %f
+Icon=io.github.onenote-linux.Viewer
+Terminal=false
+Categories=Office;Utility;
+MimeType=application/x-onenote;application/x-onenote-package;application/x-onenote-toc;application/x-onenote-linux-project;
+StartupNotify=true
+Keywords=OneNote;notes;notebook;editor;
